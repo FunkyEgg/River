@@ -1,0 +1,2 @@
+String text = "Hello world";
+out("Hello world");
