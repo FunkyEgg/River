@@ -1,2 +1,2 @@
-String text = "Hello world";
-out("Hello world");
+String text = "Hello world"
+out text
